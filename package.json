@@ -1,0 +1,24 @@
+{
+  "name": "skillboost-site",
+  "version": "0.0.1",
+  "description": "A web site to help people find the right path for upskilling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LetMyPeopleCode/skillboost.git"
+  },
+  "keywords": [
+    "upskill",
+    "programming",
+    "STEM"
+  ],
+  "author": "Greg Bulmash",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/LetMyPeopleCode/skillboost/issues"
+  },
+  "homepage": "https://github.com/LetMyPeopleCode/skillboost#readme"
+}

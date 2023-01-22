@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "SkillBoost.tech"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+titleAddition = "Find Your Upskilling Path"
+description = "Free online tutorials and courses... with a twist."
 
 ## Documentation
 # docsVersion = "0.3"

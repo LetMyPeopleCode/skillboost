@@ -10,6 +10,6 @@ The whole point here is to help people determine what their learning goal is, wh
 
 - [License](LICENSE.MD): The license on this is based on the Creative Commons Attribution, Non-Commercial, Share Alike license (CC-BY-SA-NC) 4.0. The full text is available in the license file. The maintainer(s) of this repository reserve the right to move to a more permissive license, but may not move to one that is more restrictive.
 
-- [Doks theme Github repo](https://github.com/h-enk/doks): This site used the Doks theme, which is MIT licensed. You can find its license in [the THEME_LICENSE](THMEM_LICENSE.md) file. If you use this repo, only the unmodified components of the Doks theme remain MIT licensed. The rest remains CC-BY-SA-NC.
+- [Doks theme Github repo](https://github.com/h-enk/doks): This site used the Doks theme, which is MIT licensed. You can find its license in [the THEME_LICENSE](THEME_LICENSE.md) file. If you use this repo, only the unmodified components of the Doks theme remain MIT licensed. The rest remains CC-BY-SA-NC.
 
 - [Contributing](CONTRIBUTING.md): We welcome contributions, but please read this guide to understand the philosophy and requirements for contributing.
